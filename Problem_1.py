@@ -1,7 +1,7 @@
 # Time Complexity : C^H 
 # Space Complexity : H
 # Did this code successfully run on Leetcode : yes	
-# Any problem you faced while coding this : Followed approach from the class 
+ 
 class Solution:
     def minCost(self, costs):
         if not costs:
